@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "title": "Software Engineer (Full Stack)",
+    "description": "We are seeking a Full Stack Software Engineer with experience in building scalable web applications. The ideal candidate should have proficiency in React, Node.js, PostgreSQL, and AWS. Responsibilities include developing user interfaces, server-side logic, and cloud deployment. Strong problem-solving skills and experience with RESTful APIs are essential."
+  },
+  {
+    "id": 2,
+    "title": "Machine Learning Engineer",
+    "description": "Looking for a Machine Learning Engineer skilled in Python, TensorFlow, and Scikit-learn. The role involves building, training, and deploying ML models, working on data pipelines, and collaborating with data scientists to enhance product intelligence."
+  },
+  {
+    "id": 3,
+    "title": "DevOps Engineer",
+    "description": "We need a DevOps Engineer with expertise in Docker, Kubernetes, and CI/CD pipelines. Experience in managing AWS or Azure infrastructure is required. The role includes automating deployments, monitoring systems, and ensuring high availability."
+  },
+  {
+    "id": 4,
+    "title": "Data Scientist",
+    "description": "Seeking a Data Scientist proficient in Python, SQL, and PowerBI. Responsibilities include analyzing large datasets, building predictive models, and delivering actionable insights to stakeholders."
+  },
+  {
+    "id": 5,
+    "title": "Frontend Developer",
+    "description": "We\u2019re hiring a Frontend Developer with strong skills in HTML, CSS, JavaScript, and frameworks like Vue.js or Angular. The candidate will work closely with designers to implement responsive and interactive UIs."
+  },
+  {
+    "id": 6,
+    "title": "Backend Developer",
+    "description": "Hiring a Backend Developer experienced in Java/Spring Boot or Node.js. The role involves designing REST APIs, managing databases, and ensuring server-side performance and scalability."
+  },
+  {
+    "id": 7,
+    "title": "Embedded Systems Engineer",
+    "description": "Looking for an Embedded Systems Engineer with expertise in C/C++ and real-time operating systems. The role includes developing firmware for microcontrollers and debugging hardware interfaces."
+  },
+  {
+    "id": 8,
+    "title": "Blockchain Developer",
+    "description": "Seeking a Blockchain Developer with hands-on experience in Solidity, Ethereum, and smart contract development. Responsibilities include designing decentralized applications and ensuring security in blockchain protocols."
+  },
+  {
+    "id": 9,
+    "title": "Cybersecurity Analyst",
+    "description": "We need a Cybersecurity Analyst with experience in threat detection, SIEM tools, firewalls, and ISO 27001 compliance. The role involves monitoring for vulnerabilities and implementing security measures."
+  },
+  {
+    "id": 10,
+    "title": "Game Developer",
+    "description": "Hiring a Game Developer proficient in Unity or Unreal Engine, C#, and 3D/2D game development. Candidates should be able to collaborate with artists and designers to create engaging gameplay experiences."
+  },
+  {
+    "id": 11,
+    "title": "NLP Engineer",
+    "description": "Looking for an NLP Engineer skilled in BERT/GPT, Transformers, and text classification. The role includes developing NLP pipelines, working with large language models, and fine-tuning for specific use cases."
+  },
+  {
+    "id": 12,
+    "title": "Computer Vision Engineer",
+    "description": "We are hiring a Computer Vision Engineer with experience in OpenCV, YOLO, and TensorFlow. The role involves developing image processing algorithms and integrating vision systems into applications."
+  },
+  {
+    "id": 13,
+    "title": "AI Research Scientist",
+    "description": "Seeking an AI Research Scientist to explore deep learning and LLM innovations. Responsibilities include publishing research papers, developing prototypes, and collaborating with academia."
+  },
+  {
+    "id": 14,
+    "title": "Speech Recognition Specialist",
+    "description": "Looking for a Speech Recognition Specialist with expertise in Kaldi, DeepSpeech, and audio preprocessing. The role includes improving ASR accuracy and deploying speech-based applications."
+  },
+  {
+    "id": 15,
+    "title": "Reinforcement Learning Expert",
+    "description": "We need a Reinforcement Learning Expert skilled in policy gradients, Gym environments, and PyTorch. The role focuses on developing intelligent agents and optimizing decision-making systems."
+  },
+  {
+    "id": 16,
+    "title": "Data Analyst",
+    "description": "Hiring a Data Analyst with strong SQL skills and experience with tools like Tableau and Excel. Responsibilities include data cleaning, visualization, and generating business reports."
+  },
+  {
+    "id": 17,
+    "title": "BI Developer",
+    "description": "We are looking for a BI Developer to design ETL pipelines, build dashboards, and manage data warehouses. Proficiency in Power BI or Looker is required."
+  },
+  {
+    "id": 18,
+    "title": "Data Engineer",
+    "description": "Seeking a Data Engineer experienced in Spark, Hadoop, and Airflow. The role involves building scalable data pipelines and managing data lakes."
+  },
+  {
+    "id": 19,
+    "title": "Quantitative Analyst",
+    "description": "Looking for a Quant Analyst with a strong background in statistics, finance models, and programming in R/Python. Responsibilities include risk modeling and quantitative research."
+  },
+  {
+    "id": 20,
+    "title": "CRM Data Specialist",
+    "description": "Hiring a CRM Data Specialist with experience in Salesforce, customer segmentation, and marketing analytics. The role involves maintaining data integrity and reporting on customer metrics."
+  },
+  {
+    "id": 21,
+    "title": "Project Manager",
+    "description": "We are seeking a Project Manager with experience in Agile and Scrum. Responsibilities include managing project timelines, stakeholder communication, and resource allocation."
+  },
+  {
+    "id": 22,
+    "title": "Product Manager",
+    "description": "Looking for a Product Manager to define roadmaps, gather user feedback, and prioritize features. Experience in market research and product lifecycle management is essential."
+  },
+  {
+    "id": 23,
+    "title": "Business Analyst",
+    "description": "Hiring a Business Analyst skilled in requirements gathering, data analysis, and creating UML diagrams. The role supports decision-making and aligns technical teams with business goals."
+  },
+  {
+    "id": 24,
+    "title": "Operations Manager",
+    "description": "We need an Operations Manager to oversee logistics, supply chain management, and operational efficiency. Strong leadership and coordination skills are required."
+  },
+  {
+    "id": 25,
+    "title": "HR Manager",
+    "description": "Seeking an HR Manager experienced in recruitment, onboarding, HRIS systems, and compliance. The role includes employee engagement and policy management."
+  },
+  {
+    "id": 26,
+    "title": "Chartered Accountant (CA)",
+    "description": "Hiring a CA with knowledge in auditing, taxation, and statutory compliance. Responsibilities include financial reporting and liaising with regulatory authorities."
+  },
+  {
+    "id": 27,
+    "title": "Financial Analyst",
+    "description": "Looking for a Financial Analyst to perform budgeting, forecasting, and financial modeling. Strong Excel and analytical skills are required."
+  },
+  {
+    "id": 28,
+    "title": "Investment Banker",
+    "description": "Seeking an Investment Banker experienced in M&A, pitch book creation, and valuation modeling. The role involves working with corporate clients on financial deals."
+  },
+  {
+    "id": 29,
+    "title": "Corporate Lawyer",
+    "description": "Hiring a Corporate Lawyer with experience in contract law, M&A, and legal advisory. Responsibilities include drafting documents and ensuring legal compliance."
+  },
+  {
+    "id": 30,
+    "title": "Compliance Officer",
+    "description": "Looking for a Compliance Officer with expertise in KYC/AML regulations and internal audits. The role involves enforcing company policies and regulatory frameworks."
+  },
+  {
+    "id": 31,
+    "title": "UI/UX Designer",
+    "description": "Seeking a UI/UX Designer skilled in Figma, user research, wireframing, and prototyping. The role focuses on improving product usability and visual design."
+  },
+  {
+    "id": 32,
+    "title": "Graphic Designer",
+    "description": "Hiring a Graphic Designer with experience in Adobe Suite, branding, and digital content creation. Responsibilities include creating visuals for marketing campaigns."
+  },
+  {
+    "id": 33,
+    "title": "Motion Graphics Artist",
+    "description": "Looking for a Motion Graphics Artist proficient in After Effects and animation tools. The role involves creating engaging motion graphics for videos and ads."
+  },
+  {
+    "id": 34,
+    "title": "Interior Designer",
+    "description": "We need an Interior Designer skilled in AutoCAD, space planning, and client presentations. The role includes designing functional and aesthetic interior spaces."
+  },
+  {
+    "id": 35,
+    "title": "Game Designer",
+    "description": "Hiring a Game Designer to develop game mechanics, levels, and storylines. Experience in prototyping and balancing gameplay is preferred."
+  },
+  {
+    "id": 36,
+    "title": "Digital Marketing Specialist",
+    "description": "Seeking a Digital Marketing Specialist with skills in SEO, SEM, Google Ads, and content strategy. The role includes campaign planning and performance tracking."
+  },
+  {
+    "id": 37,
+    "title": "Content Writer",
+    "description": "Looking for a Content Writer to produce blog posts, whitepapers, and SEO-friendly content. Strong writing and research skills are essential."
+  },
+  {
+    "id": 38,
+    "title": "Social Media Manager",
+    "description": "We are hiring a Social Media Manager to handle content calendars, engagement strategies, and analytics for various platforms."
+  },
+  {
+    "id": 39,
+    "title": "Sales Executive (B2B)",
+    "description": "Seeking a B2B Sales Executive experienced in lead generation, cold calling, and CRM management. The role involves achieving sales targets and client acquisition."
+  },
+  {
+    "id": 40,
+    "title": "Brand Manager",
+    "description": "Looking for a Brand Manager to lead brand strategy, execute marketing campaigns, and conduct competitor analysis."
+  },
+  {
+    "id": 41,
+    "title": "Clinical Research Associate",
+    "description": "Hiring a Clinical Research Associate to monitor trials, ensure regulatory compliance, and manage site documentation."
+  },
+  {
+    "id": 42,
+    "title": "Pharmacovigilance Specialist",
+    "description": "We need a Pharmacovigilance Specialist with expertise in drug safety reporting and adverse event monitoring."
+  },
+  {
+    "id": 43,
+    "title": "Medical Coder",
+    "description": "Looking for a Medical Coder proficient in ICD-10 and CPT coding. The role includes reviewing patient records and assigning medical codes."
+  },
+  {
+    "id": 44,
+    "title": "Biomedical Engineer",
+    "description": "Seeking a Biomedical Engineer to develop and test medical devices. Skills in CAD software and regulatory standards are required."
+  },
+  {
+    "id": 45,
+    "title": "Healthcare Data Analyst",
+    "description": "Hiring a Healthcare Data Analyst to analyze EHR data, track KPIs, and generate healthcare insights."
+  },
+  {
+    "id": 46,
+    "title": "Civil Engineer",
+    "description": "We are looking for a Civil Engineer skilled in structural design, AutoCAD, and on-site supervision. The role involves planning and executing construction projects."
+  },
+  {
+    "id": 47,
+    "title": "Mechanical Design Engineer",
+    "description": "Seeking a Mechanical Engineer with SolidWorks experience for designing mechanical systems and components."
+  },
+  {
+    "id": 48,
+    "title": "Electrical Engineer",
+    "description": "Hiring an Electrical Engineer with experience in PLC, SCADA, and circuit design. Responsibilities include electrical system planning and troubleshooting."
+  },
+  {
+    "id": 49,
+    "title": "Construction Project Manager",
+    "description": "Looking for a Construction Project Manager to manage construction timelines, budget, and vendor coordination."
+  },
+  {
+    "id": 50,
+    "title": "HVAC Engineer",
+    "description": "Seeking an HVAC Engineer to design and implement heating, ventilation, and air conditioning systems. Proficiency in duct design and load calculations is required."
+  }
+]
