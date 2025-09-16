@@ -15,7 +15,7 @@ warnings.filterwarnings("ignore")
 
 llm = ChatGoogleGenerativeAI(
     model="gemini-2.0-flash",
-    api_key="AIzaSyDQq69AxBRoHywVGL9cQ8bn7R4bbUbhVNE"
+    api_key=""
 )
 
 entry_condition_msg = """ 
